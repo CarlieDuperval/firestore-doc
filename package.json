@@ -1,11 +1,12 @@
 {
   "name": "hello-firestore",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "author": "Carlie Duperval <carlierichell@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.3",
     "firebase": "^9.6.7",
     "firebase-admin": "^10.0.2"
   }

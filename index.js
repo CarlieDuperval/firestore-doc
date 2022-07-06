@@ -16,4 +16,4 @@ const createCar = async (car) => {
     return result;
 }
 
-createCar({make: 'Dogde', model: 'Charge'});
+// createCar({make: 'Dogde', model: 'Charge'});
